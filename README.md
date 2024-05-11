@@ -1,7 +1,12 @@
 Puzzle Game
+
+
+
 This is a simple web-based puzzle game created using HTML, CSS, and JavaScript. The game presents players with a grid of tiles that are initially shuffled. The objective is to rearrange the tiles to form the correct image or pattern.
 
 Table of Contents
+
+
 Demo
 Features
 Installation
@@ -9,9 +14,13 @@ Usage
 Contributing
 
 Demo
+
+
 You can play the game online here.
 
 Features
+
+
 Shuffling Mechanism: The game starts with a shuffled grid of tiles.
 Tile Interactivity: Tiles can be clicked to move them around the grid.
 Timer: Optionally, a timer can be included to track the time taken to solve the puzzle.
@@ -32,6 +41,8 @@ cd puzzle-game
 Open the index.html file in your web browser.
 
 Usage
+
+
 Once the game is running, follow these instructions to play:
 
 Click on a tile adjacent to the empty space to move it into the empty space.
