@@ -33,10 +33,6 @@ Clone this repository to your local machine:
 
 
 
-git clone https://github.com/your_jaiswalradha/puzzle-game.git
-Navigate to the project directory:
-
-
 cd puzzle-game
 Open the index.html file in your web browser.
 
